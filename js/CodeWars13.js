@@ -5,3 +5,5 @@ function even_or_odd(number) {
     return "Odd"
   } else {
     return "Even";
+ }
+}
