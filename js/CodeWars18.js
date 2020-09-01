@@ -14,3 +14,4 @@ function bonusTime(salary, bonus) {
  }else {
    return "£" + salary
  }
+ 
